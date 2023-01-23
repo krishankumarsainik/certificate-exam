@@ -1,0 +1,12 @@
+.nav-item {
+    text-decoration: none;
+    color: black;
+}
+
+tr {
+    width: 250px;
+}
+
+td {
+    width: 250px;
+}

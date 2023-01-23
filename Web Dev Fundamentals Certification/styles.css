@@ -1,0 +1,43 @@
+.nav-item {
+    text-decoration: none;
+    color: black;
+    margin-left: 100px;
+}
+
+.logo-name {
+    font-size: 30px;
+}
+
+.login {
+    height: 300px;
+    width: 500px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.login-btn {
+    width: 450px;
+}
+
+.logout-btn {
+    position: absolute;
+    right: 100px
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 15;
+}
+
+th {
+    color: black;
+}
+
+tr,
+th,
+td {
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
